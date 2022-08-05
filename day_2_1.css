@@ -1,0 +1,16 @@
+.h1 {
+    color: red;
+    background: yellow;
+  }
+  
+  .h2{
+      background-color: palevioletred;
+  }
+  
+  .myclass {
+    color: black;
+  }
+  
+  .mybg {
+    background: tomato;
+  }
